@@ -14,6 +14,6 @@ My research interest includes computer vision, computer graphics, machine learni
 
 I am very fortunate to be advised by Prof. of XXX Lab from Shanghai Jiao Tong University. I was advised by Prof. from Shanghai Jiao Tong University.
 
-[Email](automation-yangyang@sjtu.edu.cn) / [Github](https://github.com/automation-yy) 
+[Email](mailto:automation-yangyang@sjtu.edu.cn) / [Github](https://github.com/automation-yy) 
 
 
